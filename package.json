@@ -2,7 +2,7 @@
     "name": "koa-etag",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "dist/index.js",
     "dependencies": {
         "etag": "^1.8.1"
     },
